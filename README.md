@@ -1,7 +1,7 @@
 # react-native-crud
 crud simples com react native
 
-# executar 
+# Instalar dependencias 
 npm install
 
 # simular com o expo
